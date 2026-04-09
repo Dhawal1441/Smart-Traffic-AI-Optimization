@@ -1,0 +1,12 @@
+# Core Computer Vision & AI
+ultralytics
+opencv-python
+numpy
+
+# Deep Learning Backend (usually installed with ultralytics, but good to have)
+torch
+torchvision
+
+# Additional Utilities (Optional but helpful for data handling)
+pandas
+matplotlib
