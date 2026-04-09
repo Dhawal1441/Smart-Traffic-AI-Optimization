@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# AI Model weights (YOLO downloads this automatically)
+*.pt
+
+# Video file (Too large for GitHub)
+traffic.mp4
+
+# YOLO output folders
+runs/
+
+# Environment files
+.venv/
+env/
